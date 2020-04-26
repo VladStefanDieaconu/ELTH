@@ -1,0 +1,1 @@
+Am folosit mediul Octave si optional pachetul extern symbolic.
